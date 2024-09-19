@@ -1,6 +1,6 @@
 # Artificial Intelligence tools and Technologies
 
-![Artificial Intelligence tools and Technologies](https://github.com/balusena/artifical-intelligence-tools-and-technologies/blob/main/ai-tools.png)
+![Artificial Intelligence tools and Technologies](https://github.com/balusena/artificial-intelligence-tools-and-technologies/blob/main/ai-tools.png)
 
 This repository is a comprehensive collection of projects and tutorials centered on Machine Learning, Deep Learning, Natural
 Language Processing (NLP), and Data Analysis. It offers a deep dive into various algorithms and techniques essential for anyone
@@ -70,7 +70,7 @@ Thank you for your support!
 ---
 ## ✍🏼 Author
 
-![Author Image](https://github.com/balusena/artifical-intelligence-tools-and-technologies/blob/main/banner.png)
+![Author Image](https://github.com/balusena/artificial-intelligence-tools-and-technologies/blob/main/banner.png)
 
 ---
 Made with ❤️ and passion to contribute to the DevOps community by [Bala Senapathi](https://github.com/balusena)
