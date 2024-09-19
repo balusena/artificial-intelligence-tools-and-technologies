@@ -1,0 +1,10 @@
+Objective :
+UT Discount Mart is a supermarket owned by UT GROUP.They want to build a BI dashboard where it can track how well Discount Mart is doing for this year 
+
+(in terms of Sales,Profit and Quantity Sold),and also like to know how well categories are performing as well as different regions.They assumes that most
+
+of the customers buy 2 or more products per basket/order but would like this confirmed by the data and also noted that Profit is 30% of the selling price.
+
+They have given us csv files from which we have to create a Dashboard for quick review so that they can take further decisions for the benefit of the company.
+
+Thus, we created below interactive dashboard as per his requirement. Now,they could switch and view different shipping stats for different months and years.
